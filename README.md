@@ -3,6 +3,9 @@
 Go to:
 https://react.i18next.com/guides/quick-start
 
+```
+npm install react-i18next i18next --save
+```
 
 ![Screenshot 2023-11-15 110022](https://github.com/HannaFleming/language-translation-page-react/assets/124400864/0d446c10-21b1-44a6-b6e7-c922ab907aec)
 
