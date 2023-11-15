@@ -3,6 +3,7 @@
 Go to:
 https://react.i18next.com/guides/quick-start
 
+Install both react-i18next and i18next packages:
 ```
 npm install react-i18next 
 
